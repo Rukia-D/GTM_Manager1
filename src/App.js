@@ -8,8 +8,8 @@ import './App.css';
 
 // Dummy user data for demonstration; replace with actual user data from your auth context or state
 const userData = {
-  name1: 'Devangi',
-  email: 'DevangiGajjar@gmail.com',
+  name1: 'ManagerIndiraNagar',
+  email: 'IndiraNagar@gmail.com',
   role: process.env.REACT_APP_USER_ROLE
 };
 
